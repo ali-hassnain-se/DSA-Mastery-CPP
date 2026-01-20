@@ -1,5 +1,5 @@
 DSA Mastery - C++ Implementation 🚀
-Welcome to my Data Structures and Algorithms (DSA) repository. I am a Software Engineering student at Government College University Faisalabad (GCUF), currently in my 3rd semester. This repository serves as a comprehensive collection of my logic-building journey and algorithmic implementations.
+Welcome to my Data Structures and Algorithms (DSA) repository. I am a Software Engineering Student at Superior College, Mian Channu (Affiliated with GCUF), currently in my 3rd semester. This repository serves as a comprehensive collection of my logic-building journey and algorithmic implementations.
 
 📌 Project Overview
 The goal of this project is to implement core DSA concepts from scratch using C++ to build a strong foundation for technical interviews and competitive programming.
