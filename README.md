@@ -1,30 +1,39 @@
-DSA Mastery in C++ 🚀
-Welcome to my DSA journey repository! Main Government College University Faisalabad (GCUF) mein BS Software Engineering ka 3rd-semester student hoon. Is repository ka maqsad apne Data Structures aur Algorithms ke concepts ko mazeed mazboot karna aur unhein ek organized jagah par store karna hai.
+DSA Mastery - C++ Implementation 🚀
+Welcome to my Data Structures and Algorithms (DSA) repository. I am a Software Engineering student at Government College University Faisalabad (GCUF), currently in my 3rd semester. This repository serves as a comprehensive collection of my logic-building journey and algorithmic implementations.
+
+📌 Project Overview
+The goal of this project is to implement core DSA concepts from scratch using C++ to build a strong foundation for technical interviews and competitive programming.
 
 📂 Repository Structure
-Is repository ko folders mein divide kiya gaya hai taake navigation asaan ho:
+To maintain a clean and professional workflow, the code is organized into category-specific folders:
 
-sorting/: Isme Bubble Sort, Selection Sort, aur Insertion Sort jaise algorithms ke implementations hain.
+sorting/: Implementations of fundamental sorting algorithms including Bubble Sort, Selection Sort, and Insertion Sort.
 
-recursion/: Yahan recursion ke problems hain, jaise ke 'Print 1 to N' aur doosre logic-building exercises.
+recursion/: Focused on recursive logic building, featuring problems like Printing 1 to N and other recursive patterns.
 
-arrays/: Arrays se mutaliq searching aur manipulation algorithms.
+arrays/: Solutions related to array manipulation, searching, and optimization.
 
 🛠️ Tech Stack & Tools
-Language: C++ (Core Focus on Logic Building)
+Language: C++ (Object-Oriented Programming & Procedural)
 
-Tools: VS Code, Dev-C++, Git, aur GitHub
+IDEs: VS Code / Dev-C++
 
-Concepts: Data Structures & Algorithms (DSA), OOP
+Version Control: Git & GitHub
 
-🚀 Goals
-DSA ke har concept (Stacks, Queues, Linked Lists, etc.) ko implement karna.
+🎯 Learning Roadmap
+My current focus is on mastering the following topics:
 
-Ek mazboot GitHub portfolio banana taake future mein Google aur Microsoft jaisi companies ke liye apply kar sakoon.
+Sorting & Searching Algorithms (In Progress)
 
-LinkedIn par apni progress share karte rehna.
+Recursion & Backtracking
 
-📫 Connect with me
+Linked Lists, Stacks, and Queues
+
+Trees and Graph Theory
+
+📫 Connect with Me
+I am actively learning and open to collaborating on interesting projects.
+
 LinkedIn: [https://www.linkedin.com/in/ali-hassnain-232789352/]
 
 Email: ranaalihassnain07@gmail.com
