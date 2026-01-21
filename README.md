@@ -42,7 +42,7 @@ Currently mastering the fundamentals while planning for advanced structures:
 
 
 ## 📫 Connect with Me
-I'm always ready for new ideas and collaboration!
+I'm always ready for new ideas and collaboration.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ali-hassnain-232789352/" target="_blank">
