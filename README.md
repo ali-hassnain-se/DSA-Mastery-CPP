@@ -42,16 +42,11 @@ Currently mastering the fundamentals while planning for advanced structures:
 
 
 ## 📫 Connect with Me
-I'm always ready for new ideas and collaboration.
+I'm always ready for new ideas and collaboration!
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ali-hassnain-232789352/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:ranaalihassnain07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+LinkedIn: https://www.linkedin.com/in/ali-hassnain-232789352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Email: ranaalihassnain07@gmail.com
 
 <p align="center">
   <i>"Practice makes perfect, and coding makes it permanent."</i>
