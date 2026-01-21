@@ -44,7 +44,7 @@ Currently mastering the fundamentals while planning for advanced structures:
 ## 📫 Connect with Me
 I'm always ready for new ideas and collaboration!
 
-LinkedIn: https://www.linkedin.com/in/ali-hassnain-232789352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: https://www.linkedin.com/in/ali-hassnain-232789352/
 
 Email: ranaalihassnain07@gmail.com
 
