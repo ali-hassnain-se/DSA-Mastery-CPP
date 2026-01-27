@@ -2,23 +2,26 @@
 
 I am a **Software Engineering Student** at **Superior College, Mian Channu (Affiliated with GCUF)**, currently in my **3rd semester**. This repository is a comprehensive collection of my logic-building journey and core Data Structures & Algorithms implementations in C++.
 
-
 ## 📌 Project Overview
 The goal of this project is to implement fundamental DSA concepts from scratch to build a solid technical foundation for competitive programming and software engineering interviews.
 
-
 ## 📂 Repository Structure
-Code ko organized aur maintainable rakhne ke liye folders mein divide kiya gaya hai:
+To keep code organised and maintainable, I divided it into floders:
 
 - ### 🔍 **searching/**
-  Implementation of efficient search algorithms like **Linear Search** and **Binary Search**.
+  Implementation of efficient search algorithms:
+  * **Linear Search:** $O(n)$ complexity.
+  * **Binary Search:** $O(\log n)$ complexity.
 
 - ### 📊 **sorting/**
-  Classic sorting techniques including **Bubble Sort**, **Selection Sort**, and **Insertion Sort**.
+  Classic sorting techniques:
+  * **Bubble, Selection, and Insertion Sort:** $O(n^2)$ complexity.
 
 - ### 🔄 **recursion/**
-  Recursive logic building with problems such as **Printing 1 to N** and recursive patterns.
-
+  Recursive logic building with problems:
+  * **Series:** Fibonacci Series, Printing 1 to N.
+  * **Math:** GCD (Greatest Common Divisor), Power Calculation.
+  * **Logic:** Nth Stairs (Climbing Stairs) problem.
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
@@ -29,23 +32,20 @@ Code ko organized aur maintainable rakhne ke liye folders mein divide kiya gaya 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 </p>
 
-
 ## 🎯 Learning Roadmap
 Currently mastering the fundamentals while planning for advanced structures:
 
 - [x] **Sorting Algorithms** (Bubble, Selection, Insertion) ✅
 - [x] **Searching Algorithms** (Linear, Binary Search) ✅
-- [x] **Recursion Basics** (Logic Building) 🔄
+- [x] **Recursion Basics** (Logic, Fibonacci, GCD, Nth Stairs) ✅
 - [ ] **Linked Lists** (Singly, Doubly) 🔜
 - [ ] **Stacks & Queues** 🔜
 - [ ] **Trees & Graph Theory** 🚀
 
-
 ## 📫 Connect with Me
 I'm always ready for new ideas and collaboration!
 
-LinkedIn: https://www.linkedin.com/in/ali-hassnain-232789352/
-
+LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 Email: ranaalihassnain07@gmail.com
 
 <p align="center">
