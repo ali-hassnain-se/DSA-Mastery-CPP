@@ -22,6 +22,9 @@ To keep code organised and maintainable, I divided it into floders:
   * **Series:** Fibonacci Series, Printing 1 to N.
   * **Math:** GCD (Greatest Common Divisor), Power Calculation.
   * **Logic:** Nth Stairs (Climbing Stairs) problem.
+ 
+- ###  **Linked_List/**
+  * **Singly** Insert Node At Start & Insert Node At End. 
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
@@ -38,7 +41,7 @@ Currently mastering the fundamentals while planning for advanced structures:
 - [x] **Sorting Algorithms** (Bubble, Selection, Insertion) ✅
 - [x] **Searching Algorithms** (Linear, Binary Search) ✅
 - [x] **Recursion Basics** (Logic, Fibonacci, GCD, Nth Stairs, Palindrome) ✅
-- [ ] **Linked Lists** (Singly, Doubly) 🔜
+- [x] **Linked Lists** (Singly: Insertion at Start & End) 🔄
 - [ ] **Stacks & Queues** 🔜
 - [ ] **Trees & Graph Theory** 🚀
 
