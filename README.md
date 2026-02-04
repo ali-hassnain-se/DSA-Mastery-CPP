@@ -23,7 +23,7 @@ To keep code organised and maintainable, I divided it into floders:
   * **Math:** GCD (Greatest Common Divisor), Power Calculation.
   * **Logic:** Nth Stairs (Climbing Stairs) problem.
  
-- ###  **Linked_List/**
+- ###  **linked_list/**
   * **Singly** Insert Node At Start & Insert Node At End. 
 
 ## 🛠️ Tech Stack & Tools
