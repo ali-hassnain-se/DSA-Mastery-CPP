@@ -26,6 +26,7 @@ To keep code organised and maintainable, I divided it into floders:
 - ###  **linked_list/**
   * **Singly** Insert Node At Start & Insert Node At End.
   * **Singly** Delete Node from Start & Delete Node from End.
+  * **Singly** Reversing Linked List With Data and Addresses.
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
@@ -42,7 +43,7 @@ Currently mastering the fundamentals while planning for advanced structures:
 - [x] **Sorting Algorithms** (Bubble, Selection, Insertion) ✅
 - [x] **Searching Algorithms** (Linear, Binary Search) ✅
 - [x] **Recursion Basics** (Logic, Fibonacci, GCD, Nth Stairs, Palindrome) ✅
-- [x] **Linked Lists** (Singly: Insertion at Start & End, Deletion from Start & End) 🔄
+- [x] **Linked Lists** (Singly: Insertion at Start & End, Deletion from Start & End, Reverse Linked List) 🔄
 - [ ] **Stacks & Queues** 🔜
 - [ ] **Trees & Graph Theory** 🚀
 
