@@ -6,7 +6,7 @@ I am a **Software Engineering Student** at **Superior College, Mian Channu (Affi
 The goal of this project is to implement fundamental DSA concepts from scratch to build a solid technical foundation for competitive programming and software engineering interviews.
 
 ## 📂 Repository Structure
-To keep code organised and maintainable, I divided it into floders:
+To keep code organised and maintainable, I divided it into folders:
 
 - ### 🔍 **searching/**
   Implementation of efficient search algorithms:
@@ -19,14 +19,20 @@ To keep code organised and maintainable, I divided it into floders:
 
 - ### 🔄 **recursion/**
   Recursive logic building with problems:
-  * **Series:** Fibonacci Series, Printing 1 to N.
-  * **Math:** GCD (Greatest Common Divisor), Power Calculation.
-  * **Logic:** Nth Stairs (Climbing Stairs) problem.
- 
-- ###  **linked_list/**
-  * **Singly** Insert Node At Start & Insert Node At End.
-  * **Singly** Delete Node from Start & Delete Node from End.
-  * **Singly** Reversing Linked List With Data and Addresses.
+  * **Series & Math:** Fibonacci, Printing 1 to N, GCD, Power Calculation, Nth Stairs.
+  * **Linked List Operations (Recursive):**
+    * Recursive Node Insertion at End.
+    * Recursive Linked List Reversal.
+
+- ### 🔗 **linked_list/**
+  Comprehensive operations on Singly Linked Lists:
+  * **Basic Operations:** Insertion and Deletion (Start & End).
+  * **Advanced Manipulations:**
+    * **Reversal:** Iterative, Recursive, and Vector-based approaches.
+    * **Rotation:** Rotating the list by 'k' nodes.
+    * **Middle Node:** Basic approach and **Optimized Slow & Fast Pointers**.
+  * **Node Removal:** Removing every Kth node and Optimized Nth node from the end.
+  * **Palindrome Check:** Using vectors and optimized recursive logic.
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
@@ -42,8 +48,8 @@ Currently mastering the fundamentals while planning for advanced structures:
 
 - [x] **Sorting Algorithms** (Bubble, Selection, Insertion) ✅
 - [x] **Searching Algorithms** (Linear, Binary Search) ✅
-- [x] **Recursion Basics** (Logic, Fibonacci, GCD, Nth Stairs, Palindrome) ✅
-- [x] **Linked Lists** (Singly: Insertion at Start & End, Deletion from Start & End, Reverse Linked List) 🔄
+- [x] **Recursion Basics** (Math, Series, LL Recursive Ops) ✅
+- [x] **Linked Lists** (Insertion, Deletion, Reverse, Middle, Rotation, Nth Node) ✅
 - [ ] **Stacks & Queues** 🔜
 - [ ] **Trees & Graph Theory** 🚀
 
