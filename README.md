@@ -21,18 +21,16 @@ To keep code organised and maintainable, I divided it into folders:
   Recursive logic building with problems:
   * **Series & Math:** Fibonacci, Printing 1 to N, GCD, Power Calculation, Nth Stairs.
   * **Linked List Operations (Recursive):**
-    * Recursive Node Insertion at End.
-    * Recursive Linked List Reversal.
+    * **Singly LL:** Node Insertion at Start & End, Reversal.
+    * **Doubly LL:** Node Insertion at Start & End.
 
 - ### 🔗 **linked_list/**
-  Comprehensive operations on Singly Linked Lists:
-  * **Basic Operations:** Insertion and Deletion (Start & End).
-  * **Advanced Manipulations:**
-    * **Reversal:** Iterative, Recursive, and Vector-based approaches.
-    * **Rotation:** Rotating the list by 'k' nodes.
-    * **Middle Node:** Basic approach and **Optimized Slow & Fast Pointers**.
-  * **Node Removal:** Removing every Kth node and Optimized Nth node from the end.
-  * **Palindrome Check:** Using vectors and optimized recursive logic.
+  Comprehensive operations on Linked Lists:
+  * **Singly Linked List (SLL):**
+    * **Basic:** Insertion and Deletion (Start & End).
+    * **Advanced:** Reversal, Rotation, Middle Node (Slow-Fast Pointers), Nth Node Removal, Palindrome Check.
+  * **Doubly Linked List (DLL):**
+    * **Basic:** Node Insertion at Start & End (Iterative & Recursive).
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
@@ -49,7 +47,7 @@ Currently mastering the fundamentals while planning for advanced structures:
 - [x] **Sorting Algorithms** (Bubble, Selection, Insertion) ✅
 - [x] **Searching Algorithms** (Linear, Binary Search) ✅
 - [x] **Recursion Basics** (Math, Series, LL Recursive Ops) ✅
-- [x] **Linked Lists** (Insertion, Deletion, Reverse, Middle, Rotation, Nth Node) ✅
+- [x] **Linked Lists** (Singly & Doubly: Insertion, Deletion, Reverse, etc.) ✅
 - [ ] **Stacks & Queues** 🔜
 - [ ] **Trees & Graph Theory** 🚀
 
