@@ -14,23 +14,31 @@ To keep code organised and maintainable, I divided it into folders:
   * **Binary Search:** $O(\log n)$ complexity.
 
 - ### 📊 **sorting/**
-  Classic sorting techniques:
+  Classic and efficient sorting techniques:
   * **Bubble, Selection, and Insertion Sort:** $O(n^2)$ complexity.
+  * **Merge Sort:** $O(n \log n)$ complexity (Divide and Conquer).
 
 - ### 🔄 **recursion/**
   Recursive logic building with problems:
   * **Series & Math:** Fibonacci, Printing 1 to N, GCD, Power Calculation, Nth Stairs.
+  * **Sorting:** Merge Sort implementation using recursion.
   * **Linked List Operations (Recursive):**
-    * **Singly LL:** Node Insertion at Start & End, Reversal.
-    * **Doubly LL:** Node Insertion at Start & End.
+    * **Singly & Doubly LL:** Node Insertion at Start & End, Reversal.
 
 - ### 🔗 **linked_list/**
   Comprehensive operations on Linked Lists:
-  * **Singly Linked List (SLL):**
-    * **Basic:** Insertion and Deletion (Start & End).
-    * **Advanced:** Reversal, Rotation, Middle Node (Slow-Fast Pointers), Nth Node Removal, Palindrome Check.
+  * **Singly Linked List (SLL):** Basic Ops, Reversal, Rotation, Middle Node (Slow-Fast Pointers), Nth Node Removal, Palindrome Check.
   * **Doubly Linked List (DLL):**
-    * **Basic:** Node Insertion at Start & End (Iterative & Recursive).
+    * **Insertion:** Node Insertion at Start, End, and **Given Position**.
+
+- ### 📚 **stacks/**
+  LIFO (Last In First Out) Data Structure:
+  * **Menu-Driven Program:** Complete implementation of **Push, Pop, Peek, and Display** operations.
+
+- ### 👥 **queues/**
+  FIFO (First In First Out) Data Structures:
+  * **Linear Queue:** Comprehensive EnQueue, DeQueue, Display, and Peek operations.
+  * **Circular Queue:** Implementation to optimize space utilization.
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
@@ -44,11 +52,11 @@ To keep code organised and maintainable, I divided it into folders:
 ## 🎯 Learning Roadmap
 Currently mastering the fundamentals while planning for advanced structures:
 
-- [x] **Sorting Algorithms** (Bubble, Selection, Insertion) ✅
+- [x] **Sorting Algorithms** (Merge Sort, Bubble, Selection, Insertion) ✅
 - [x] **Searching Algorithms** (Linear, Binary Search) ✅
-- [x] **Recursion Basics** (Math, Series, LL Recursive Ops) ✅
-- [x] **Linked Lists** (Singly & Doubly: Insertion, Deletion, Reverse, etc.) ✅
-- [ ] **Stacks & Queues** 🔜
+- [x] **Recursion Basics** (Math, Sorting, LL Recursive Ops) ✅
+- [x] **Linked Lists** (Singly & Doubly: All basic & advanced ops) ✅
+- [x] **Stacks & Queues** (Stack, Linear Queue, Circular Queue) ✅
 - [ ] **Trees & Graph Theory** 🚀
 
 ## 📫 Connect with Me
