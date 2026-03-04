@@ -27,7 +27,13 @@ To keep code organised and maintainable, I divided it into folders:
 
 - ### 🔗 **linked_list/**
   Comprehensive operations on Linked Lists:
-  * **Singly Linked List (SLL):** Basic Ops, Reversal, Rotation, Middle Node (Slow-Fast Pointers), Nth Node Removal, Palindrome Check.
+  * **Singly Linked List (SLL):**
+    * **Basic Ops:** Insertion, Deletion, Reversal, Rotation, Middle Node, Nth Node Removal.
+    * **Problem Solving:**
+      * **Merging:** Merging two sorted Linked Lists.
+      * **Duplicates:** Removing duplicate elements from a list.
+      * **Sorting:** Sorting a list containing 0s, 1s, and 2s (multiple approaches).
+      * **Palindrome:** Check if a Singly Linked List is Palindrome.
   * **Doubly Linked List (DLL):**
     * **Insertion:** Node Insertion at Start, End, and **Given Position**.
 
