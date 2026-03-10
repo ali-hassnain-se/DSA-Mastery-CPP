@@ -26,16 +26,17 @@ To keep code organised and maintainable, I divided it into folders:
     * **Singly & Doubly LL:** Node Insertion at Start & End, Reversal.
 
 - ### 🔗 **linked_list/**
-  Comprehensive operations on Linked Lists:
+  Comprehensive operations on various Linked List types:
   * **Singly Linked List (SLL):**
     * **Basic Ops:** Insertion, Deletion, Reversal, Rotation, Middle Node, Nth Node Removal.
-    * **Problem Solving:**
-      * **Merging:** Merging two sorted Linked Lists.
-      * **Duplicates:** Removing duplicate elements from a list.
-      * **Sorting:** Sorting a list containing 0s, 1s, and 2s (multiple approaches).
-      * **Palindrome:** Check if a Singly Linked List is Palindrome.
+    * **Problem Solving:** Merging, Duplicate Removal, Palindrome Check, and **Loop Detection**.
   * **Doubly Linked List (DLL):**
-    * **Insertion:** Node Insertion at Start, End, and **Given Position**.
+    * **Insertion:** Node Insertion at Start, End, and Given Position.
+  * **Circular Linked List (CLL):**
+    * **CSLL (Circular Singly):** Node Insertion at End.
+    * **Cycle Detection:** Optimized loop detection using **Unordered Map** and **Floyd's Slow & Fast Pointers**.
+  * **Doubly Circular Linked List (DCLL):**
+    * **Insertion:** Node Insertion at End.
 
 - ### 📚 **stacks/**
   LIFO (Last In First Out) Data Structure:
@@ -61,7 +62,7 @@ Currently mastering the fundamentals while planning for advanced structures:
 - [x] **Sorting Algorithms** (Merge Sort, Bubble, Selection, Insertion) ✅
 - [x] **Searching Algorithms** (Linear, Binary Search) ✅
 - [x] **Recursion Basics** (Math, Sorting, LL Recursive Ops) ✅
-- [x] **Linked Lists** (Singly & Doubly: All basic & advanced ops) ✅
+- [x] **Linked Lists** (Singly, Doubly, Circular, & Doubly Circular) ✅
 - [x] **Stacks & Queues** (Stack, Linear Queue, Circular Queue) ✅
 - [ ] **Trees & Graph Theory** 🚀
 
