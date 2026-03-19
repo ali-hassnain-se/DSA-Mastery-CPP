@@ -1,6 +1,6 @@
 # 🚀 DSA Mastery - C++ Implementation
 
-I am a **Software Engineering Student** at **Superior College, Mian Channu (Affiliated with GCUF)**, currently in my **3rd semester**. This repository is a comprehensive collection of my logic-building journey and core Data Structures & Algorithms implementations in C++.
+I am a **Software Engineering Student** at **Superior College, Mian Channu (Affiliated with GCUF)**, currently in my **4th semester**. This repository is a comprehensive collection of my logic-building journey and core Data Structures & Algorithms implementations in C++.
 
 ### 🧩 Problem Solving Stats
 
