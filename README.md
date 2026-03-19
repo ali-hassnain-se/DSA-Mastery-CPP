@@ -3,8 +3,17 @@
 I am a **Software Engineering Student** at **Superior College, Mian Channu (Affiliated with GCUF)**, currently in my **3rd semester**. This repository is a comprehensive collection of my logic-building journey and core Data Structures & Algorithms implementations in C++.
 
 ### 🧩 Problem Solving Stats
+
 <p align="left">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=hassnain_07&theme=radical&v=2" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/hassnain_07">
+    <img src="https://leetcard.jacoblin.cool/hassnain_07?theme=unicorn&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.geeksforgeeks.org/user/hassnain_07/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Solved-green?style=for-the-badge&logo=geeksforgeeks" alt="GFG" />
+  </a>
 </p>
 
 ## 📌 Project Overview
