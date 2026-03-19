@@ -11,7 +11,7 @@ I am a **Software Engineering Student** at **Superior College, Mian Channu (Affi
 </p>
 
 <p align="left">
-  <a href="https://www.geeksforgeeks.org/user/hassnain_07/">
+  <a href="https://www.geeksforgeeks.org/user/ranaaliha20ie/">
     <img src="https://gfgstatscard.vercel.app/hassnain_07?theme=dark" alt="GFG Stats" />
   </a>
 </p>
