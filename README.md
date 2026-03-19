@@ -2,9 +2,9 @@
 
 I am a **Software Engineering Student** at **Superior College, Mian Channu (Affiliated with GCUF)**, currently in my **3rd semester**. This repository is a comprehensive collection of my logic-building journey and core Data Structures & Algorithms implementations in C++.
 
-## 🧩 Problem Solving Stats
+### 🧩 Problem Solving Stats
 <p align="left">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=radical" alt="LeetCode Stats" />
+  <img src="https://leetcode-stats-six.vercel.app/api?username=hassnain_07&theme=radical&v=1" alt="LeetCode Stats" />
 </p>
 
 ## 📌 Project Overview
