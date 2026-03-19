@@ -5,6 +5,12 @@ I am a **Software Engineering Student** at **Superior College, Mian Channu (Affi
 ## 📌 Project Overview
 The goal of this project is to implement fundamental DSA concepts from scratch to build a solid technical foundation for competitive programming and software engineering interviews.
 
+<p align="left">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=hassnain_07&theme=radical" alt="LeetCode Stats" />
+</p>
+
+![GFG](https://img.shields.io/badge/GeeksforGeeks-Solved-green?style=for-the-badge&logo=geeksforgeeks)
+
 ## 📂 Repository Structure
 To keep code organised and maintainable, I divided it into folders:
 
