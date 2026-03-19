@@ -14,6 +14,9 @@ class Solution {
   public:
     
     
+/*   
+ Method 1:
+ 
     bool detectLoop(Node* head) {
         // code here
         Node* curr=head;
@@ -27,6 +30,25 @@ class Solution {
             visited[curr]=1;
             curr=curr->next;
         }
+        return 0;
+    }
+    */
+    
+    // Method 2:
+    
+    bool detectLoop(Node* head) {
+        Node* slow=head, *fast=head;
+        
+        while(fast!=NULL && fast->next!=NULL) {
+            
+            slow=slow->next;
+            fast=fast->next->next;
+            
+            if(slow==fast)
+            
+            return 1; // loop exist
+        }
+        
         return 0;
     }
 };
