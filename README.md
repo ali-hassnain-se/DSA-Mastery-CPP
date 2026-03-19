@@ -12,7 +12,7 @@ I am a **Software Engineering Student** at **Superior College, Mian Channu (Affi
 
 <p align="left">
   <a href="https://www.geeksforgeeks.org/user/hassnain_07/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Solved-green?style=for-the-badge&logo=geeksforgeeks" alt="GFG" />
+    <img src="https://gfgstatscard.vercel.app/hassnain_07?theme=dark" alt="GFG Stats" />
   </a>
 </p>
 
