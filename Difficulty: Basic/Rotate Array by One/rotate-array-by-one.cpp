@@ -1,0 +1,16 @@
+// User function Template for C++
+
+class Solution {
+  public:
+    void rotate(vector<int> &arr) {
+        // code here
+        int last=arr[arr.size()-1];
+        
+        for(int i=arr.size()-2; i>=0; i--) {
+            arr[i+1]=arr[i];
+        }
+        
+        // assign last element to the first index
+        arr[0]=last;
+    }
+};
