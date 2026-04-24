@@ -70,6 +70,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0033-search-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/1539-kth-missing-positive-number) |
@@ -80,6 +81,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0035-search-insert-position](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/1539-kth-missing-positive-number) |
@@ -87,4 +89,8 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
