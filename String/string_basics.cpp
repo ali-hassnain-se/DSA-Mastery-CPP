@@ -56,10 +56,19 @@ int main()
     // cout<<s2.size()<<endl;
 
     // // Append Operation (Combine Strings)
-    // string s3="Mohit";
+    /* string s3="Mohit";
 
-    // string s4=s2+s3; // also write this s4=s2.append(s3)
-    // cout<<s4<<endl;
+    we can also write this
+
+    s3=s3+'p';  // here we can't write like this: s3=s3+'pa';
+    // because it's a string not character, we can write it like this:
+
+    s3=s3+"pa";  // it's correct
+
+
+    string s4=s2+s3; // also write this s4=s2.append(s3)
+    cout<<s4<<endl;
+*/
 
     // // insert another character at end
     // s2.push_back('p');
@@ -75,6 +84,8 @@ int main()
     next charcter to me, let's see how
 */
 
+/* Escape Character
+
     string s="rohit is a \"good\" boy";
     cout<<s<<endl;
 
@@ -83,6 +94,58 @@ int main()
     string s2="\\"; // don't write like this string s="\"
     cout<<s2<<endl;
 
+    // now if we want to print NULL char
 
-    return 0;
+    string s="\\0"; // it's wring s="\0"; it print only blank 
+    // because NULL char is used to print blank space
+    cout<<s;
+*/
+
+/* Reverse a String
+
+   string s="rohit";
+
+   int st=0, end=s.size()-1;
+
+   while(st<end) {
+    swap(s[st], s[end]);
+
+    st++;
+    end--;
+   }
+
+   cout<<s<<endl;
+*/
+
+// Find Size of String without using size() function
+
+string s1="rohit";
+
+int size=0;
+
+while(s1[size]!='\0') {  // '\0' it tells that here you stop
+    size++;
+}
+
+cout<<size<<endl;
+
+
+// Check Palindrome
+
+   string s="naman";
+
+   int st=0, end=s.size()-1;
+
+   while(st<end) {
+    if(s[st] != s[end]) {
+        cout<<"Not A Palindrome"<<endl;
+        return 0;
+    }
+
+    st++, end--;
+   }
+   cout<<"It's Palindrome"<<endl;
+
+   
+
 }
