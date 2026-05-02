@@ -93,4 +93,16 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
+## String
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
