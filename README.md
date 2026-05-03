@@ -101,8 +101,13 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
+| [1859-sorting-the-sentence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
