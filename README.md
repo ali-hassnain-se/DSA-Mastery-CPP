@@ -88,6 +88,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
