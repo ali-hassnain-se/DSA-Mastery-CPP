@@ -6,7 +6,9 @@ class Solution {
         int st=0, end=s.size()-1;
         
         while(st<end) {
-            swap(s[st], s[end]);
+            int temp=s[st];  // we can also use swap(s[st], s[end]) function
+            s[st]=s[end];
+            s[end]=temp;
             
             st++;
             end--;
