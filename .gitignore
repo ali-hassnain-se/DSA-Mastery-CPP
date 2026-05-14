@@ -1,9 +1,10 @@
-# Ignore compiled binaries
-main
-*.exe
-*.out
-*.o
+# Pehle sab kuch ignore kar do
+*
 
-# Ignore system files
-.DS_Store
-thumbs.db
+# Lekin Folders ko ignore mat karo
+!*/
+
+# In specific files ko allow karo (Ignore mat karo)
+!*.cpp
+!*.md
+!.gitignore
