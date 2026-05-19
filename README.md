@@ -108,6 +108,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [1108-defanging-an-ip-address](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +117,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1859-sorting-the-sentence) |
+| [2785-sort-vowels-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/2785-sort-vowels-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
