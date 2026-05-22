@@ -91,6 +91,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | ------- |
 | [0007-reverse-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0069-sqrtx) |
+| [0415-add-strings](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1859-sorting-the-sentence) |
@@ -130,4 +132,8 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
