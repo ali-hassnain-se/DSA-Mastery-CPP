@@ -75,6 +75,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0852-peak-index-in-a-mountain-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/1539-kth-missing-positive-number) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,4 +137,9 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0415-add-strings) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/2022-convert-1d-array-into-2d-array) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
