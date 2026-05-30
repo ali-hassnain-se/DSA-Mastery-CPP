@@ -21,15 +21,14 @@ class Solution {
   public:
     vector<int> printList(Node *head) {
         // code here
-        vector<int> arr;
-        
+        vector<int> v;
         Node* temp=head;
         
         while(temp) {
-            arr.push_back(temp->data);
+            v.push_back(temp->data);
             temp=temp->next;
         }
         
-        return arr;
+        return v;
     }
 };
