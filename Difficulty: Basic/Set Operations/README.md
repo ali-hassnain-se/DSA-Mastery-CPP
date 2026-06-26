@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/set-operations/1?page=1&category=STL&difficulty=Basic&status=unsolved&sortBy=submissions">Set Operations</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an array <strong>arr[] </strong>of size<strong> n</strong>&nbsp;and an integer <strong>x</strong>. </span><span style="font-size: 18px;">Implement the following functions:</span></p>
+<p><span style="font-size: 18px;"><strong>setInsert()</strong>: Insert all elements of arr into a set and return the set.<br></span><strong style="font-size: 18px;">setDisplay()</strong><span style="font-size: 18px;">: Print all elements of the set separated by spaces, followed by a newline.<br></span><strong style="font-size: 18px;">setErase()</strong><span style="font-size: 18px;">: If x is present in the set, remove it and print "</span><strong style="font-size: 18px;">erased x</strong><span style="font-size: 18px;">"; otherwise, print "</span><strong style="font-size: 18px;">not found</strong><span style="font-size: 18px;">". In both cases, print a newline after the message.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [9, 8, 7, 4, 4, 2, 1, 1, 9, 8], x = 1
+<strong>Output:</strong> <br>1 2 4 7 8 9
+erased 1
+2 4 7 8 9</span>
+</pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ n ≤ 10<sup>3</sup><br>1 ≤ arr[i] ≤ 10<sup>6</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>set</code>&nbsp;<code>STL</code>&nbsp;
