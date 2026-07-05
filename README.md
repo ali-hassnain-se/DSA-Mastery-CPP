@@ -99,6 +99,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
@@ -115,6 +116,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0003-longest-substring-without-repeating-characters](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0415-add-strings) |
 | [1108-defanging-an-ip-address](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1108-defanging-an-ip-address) |
@@ -157,4 +159,8 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0003-longest-substring-without-repeating-characters) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
