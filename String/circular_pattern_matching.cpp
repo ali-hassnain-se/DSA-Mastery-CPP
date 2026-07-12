@@ -23,7 +23,7 @@ void findLPS(vector<int>& lps, string s) {
     }
 }
 
-bool stringMatch(string &s1, string& s2, int n, int m, vector<int> lps) {
+bool stringMatch(string s1, string s2, int n, int m, vector<int> lps) {
     int first=0, second=0;
 
     while(first<n && second<m) {
