@@ -35,5 +35,26 @@ class Solution {
         }
         
         return oldN-lps[n-1];
+        
+/*  Now, if problems comes like if they require from us to returns the 
+chars that you added in a string to make it palindrome, we can solve it
+like this:
+
+    string p_char(oldN-lps[n-1], ' ');
+    for(int i=0;i<oldN-lps[n-1];i++) {
+        p_char+=rev[i];
+    }
+    
+    return p_char;
+*/
+
+/*  another thing they can ask that return the palindromic string that
+you made by adding minimum char so we can solve it like this:
+
+    reverse(rev.begin(), rev.end());
+    string ans=p_char+rev;
+    
+    return ans;
+*/
     }
 };
