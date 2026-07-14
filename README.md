@@ -119,6 +119,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0415-add-strings) |
+| [0686-repeated-string-match](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/1859-sorting-the-sentence) |
@@ -163,4 +164,5 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
