@@ -17,6 +17,10 @@ void cubepattern();
 
 void alphabets();
 
+void ascendingAlphabets();
+
+void numbers();
+
 int main()
 {
     // print *
@@ -35,7 +39,10 @@ int main()
     cubepattern();
     // print alphabets
     alphabets();
-
+    // print ascending alphabets
+    ascendingAlphabets();
+    // print continuous pattern
+    numbers();
 
 
     return 0;
@@ -116,4 +123,35 @@ void alphabets() {
         }
         cout<<endl;
     }
+}
+
+void ascendingAlphabets() {
+    for(int row=0;row<5;row++) {
+        for(int col=0;col<5;col++) {
+            char c='a'+col;
+            cout<<c<<" ";
+        }
+        cout<<endl;
+    }
+}
+
+void numbers() {
+    // first method
+    for(int row=0;row<5;row++) {
+        for(int col=1;col<=5;col++) {
+            cout<<row*5+col<<" ";
+        }
+        cout<<endl;
+    }
+
+    /* second methos
+    int count=1;
+    for(int i=0;i<5;i++) {
+        for(int j=0;j<5;j++) {
+            cout<<count<<" ";
+            count++;
+        }
+        cout<<endl;
+    }
+    */
 }
