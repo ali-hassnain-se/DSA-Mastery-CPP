@@ -1,6 +1,6 @@
 # 🚀 DSA Mastery - C++ Implementation
 
-I am a **Software Engineering Student** at **Superior College, Mian Channu (Affiliated with GCUF)**, currently in my **4th semester**. This repository is a comprehensive collection of my logic-building journey and core Data Structures & Algorithms implementations in C++.
+I am a **Software Engineering Student** at **Superior College, Mian Channu (Affiliated with GCUF)**, **2024 - 2028**. This repository is a comprehensive collection of my logic-building journey and core Data Structures & Algorithms implementations in C++.
 
 ### 🧩 Problem Solving Stats
 
@@ -70,6 +70,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0033-search-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0054-spiral-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -94,6 +95,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 | [0007-reverse-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ali-hassnain-se/DSA-Mastery-CPP/tree/master/0069-sqrtx) |
 | [0415-add-strings](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0415-add-strings) |
 ## Two Pointers
@@ -154,6 +156,7 @@ LinkedIn: [Ali Hassnain](https://www.linkedin.com/in/ali-hassnain-232789352/)
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/0054-spiral-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ali-hassnain-se/DSA_CPP/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Sliding Window
