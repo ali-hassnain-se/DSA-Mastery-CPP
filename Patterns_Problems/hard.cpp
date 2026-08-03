@@ -5,6 +5,8 @@ void pyramid();
 
 void pyramid_numbers();
 
+void descending_pyramid();
+
 
 
 int main()
@@ -13,6 +15,8 @@ int main()
     pyramid();
     // pyramid numbers pattern
     pyramid_numbers();
+    // descending pyramid pattern
+    descending_pyramid();
 
     return 0;
 }
@@ -47,6 +51,21 @@ void pyramid_numbers() {
         // print row-1 to 1 numbers (decreasing)
         for(col=row-1;col>=1;col--)
         cout<<col<<" ";
+
+        cout<<endl;
+    }
+}
+
+void descending_pyramid() {
+    int row, col, n=5;
+
+    for(row=5;row>=1;row--) {
+        // print *
+        for(col=1;col<=2*row-1;col++)
+        cout<<"*"<<" ";
+        // print spaces
+        for(col=1;col<=row-1;col++)
+        cout<<" ";
 
         cout<<endl;
     }
