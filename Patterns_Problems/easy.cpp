@@ -15,6 +15,10 @@ void descending_row();
 
 void row_times_descending();
 
+void num_descending();
+
+void descending();
+
 int main()
 {
     // print * row times
@@ -31,6 +35,10 @@ int main()
     descending_row();
     // print row number row times in descending order
     row_times_descending();
+    // print row number in descending order
+    num_descending();
+    // print number in descending order
+    descending();
 
 
     return 0;
@@ -120,6 +128,39 @@ void row_times_descending() {
 
     for(row=n;row>=1;row--) {
         for(col=1;col<=row;col++)
+        cout<<col<<" ";
+
+        cout<<endl;
+    }
+}
+
+void num_descending() {
+    int row, col, n=5;
+
+// first method
+    for(row=0;row<n;row++) {
+        for(col=0;col<n-row;col++)
+        cout<<col+1<<" ";
+
+        cout<<endl;
+    }    
+
+/*  second method   
+
+    for(row=n;row>=1;row--) {
+        for(col=1;col<=row;col++) 
+        cout<<col<<" ";
+
+        cout<<endl;
+    }
+*/
+}
+
+void descending() {
+    int row, col, n=5;
+
+    for(row=n;row>=1;row--) {
+        for(col=n;col>=row;col--)
         cout<<col<<" ";
 
         cout<<endl;
