@@ -7,6 +7,10 @@ void pyramid_numbers();
 
 void descending_pyramid();
 
+void diamond_square();
+
+void butterfly();
+
 
 
 int main()
@@ -17,6 +21,10 @@ int main()
     pyramid_numbers();
     // descending pyramid pattern
     descending_pyramid();
+    // print * in the form of square and some spacing inside it
+    diamond_square();
+    // print the butterfly pattern
+    butterfly();
 
     return 0;
 }
@@ -59,13 +67,90 @@ void pyramid_numbers() {
 void descending_pyramid() {
     int row, col, n=5;
 
-    for(row=5;row>=1;row--) {
+    for(row=n;row>=1;row--) {
+        // print spaces
+        for(col=1;col<=n-row;col++)
+        cout<<"  ";  // 2 spaces
+
         // print *
         for(col=1;col<=2*row-1;col++)
         cout<<"*"<<" ";
+
+        cout<<endl;
+    }
+}
+
+void diamond_square() {
+    int row, col, n=5;
+
+    // 1st half
+    for(row=n;row>=1;row--) {
+        // print * row times
+        for(col=1;col<=row;col++)
+        cout<<"* ";
+        
+        // print spaces 
+        for(col=1;col<=(2*n)-(2*row);col++)
+        cout<<"  ";  // 2 spaces
+
+        // print * row times
+        for(col=1;col<=row;col++)
+        cout<<"* ";
+
+        cout<<endl;
+    }
+
+    // 2nd half
+    for(row=1;row<=n;row++) {
+        // print *
+        for(col=1;col<=row;col++)
+        cout<<"* ";
+
         // print spaces
-        for(col=1;col<=row-1;col++)
-        cout<<" ";
+        for(col=1;col<=(2*n)-(2*row);col++)
+        cout<<"  ";
+
+        // prnt *
+        for(col=1;col<=row;col++)
+        cout<<"* ";
+
+        cout<<endl;
+    }
+}
+
+void butterfly() {
+    int row, col, n=5;
+
+    // 1st half
+    for(row=1;row<=n;row++) {
+        // print *
+        for(col=1;col<=row;col++)
+        cout<<"* ";
+
+        // print spaces
+        for(col=1;col<=(2*n)-(2*row);col++)
+        cout<<"  ";  // 2 spaces
+
+        // print *
+        for(col=1;col<=row;col++)
+        cout<<"* ";
+
+        cout<<endl;
+    }
+
+    // 2nd half
+    for(row=n-1;row>=1;row--) {
+        // print *
+        for(col=1;col<=row;col++)
+        cout<<"* ";
+
+        // print spaces
+        for(col=1;col<=(2*n)-(2*row);col++)
+        cout<<"  ";  // 2 spaces
+
+        // print *
+        for(col=1;col<=row;col++)
+        cout<<"* ";
 
         cout<<endl;
     }
