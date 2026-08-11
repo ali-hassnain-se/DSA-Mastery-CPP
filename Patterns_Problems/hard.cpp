@@ -11,6 +11,8 @@ void diamond_square();
 
 void butterfly();
 
+void diamond();
+
 
 
 int main()
@@ -25,6 +27,8 @@ int main()
     diamond_square();
     // print the butterfly pattern
     butterfly();
+    // print diamond pattern
+    diamond();
 
     return 0;
 }
@@ -147,6 +151,36 @@ void butterfly() {
         // print spaces
         for(col=1;col<=(2*n)-(2*row);col++)
         cout<<"  ";  // 2 spaces
+
+        // print *
+        for(col=1;col<=row;col++)
+        cout<<"* ";
+
+        cout<<endl;
+    }
+}
+
+void diamond() {
+    int row, col, n=5;
+
+    // firt half
+    for(row=1;row<=n;row++) {
+        // print spaces
+        for(col=1;col<=n-row;col++) 
+        cout<<" ";
+
+        // print *
+        for(col=1;col<=row;col++)
+        cout<<"* ";
+
+        cout<<endl;
+    }
+
+    // second half
+    for(row=n;row>=1;row--) {
+        // print spaces
+        for(col=1;col<=n-row;col++)
+        cout<<" ";
 
         // print *
         for(col=1;col<=row;col++)
