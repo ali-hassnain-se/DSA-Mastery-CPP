@@ -59,6 +59,11 @@ class Student {
     }
 };
 
+class Empty {
+
+
+};
+
 int main()
 {
     Student s1;
@@ -73,6 +78,12 @@ int main()
     s1.getage();
     s1.getroll_num();
     cout<<s1.getgrade(1234)<<endl;
+
+    // empty class
+    Empty obj;
+
+    cout<<sizeof(obj)<<endl;  // size of empty class object, an empty
+    // class object size is 1 byte
 
 
     return 0;
