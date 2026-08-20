@@ -60,7 +60,30 @@ class Student {
 };
 
 class Empty {
+/* a class has no size becuase it's not a real worl entity, it's a 
+template.
+whereas Object takes some space because it's a real world entity
+*/
+/*
+    an empty class has a size of 1 byte because every object in c++
+    must have a unique address.
+    if an empty class had a size of 0 bytes, multiple objects could
+    end up having the same address, which would make it difficult to
+    distinguish them.
+    the 1 byte does not store any data; it is used to give each object
+    a unique memory address. 
+    */
+};
 
+class a {
+    int b;
+    char c;
+
+    /*
+    now if we print the size of object o it wil print 8 bytes rather 
+    than [ int (4 bytes) + char (1 byte) = 5 bytes], here the concept 
+    is used called "Padding"
+    */
 
 };
 
@@ -82,9 +105,11 @@ int main()
     // empty class
     Empty obj;
 
-    cout<<sizeof(obj)<<endl;  // size of empty class object, an empty
-    // class object size is 1 byte
+    cout<<sizeof(obj)<<endl;  // size of empty class object, an empty class object size is 1 byte
+    
+    a object;
 
+    cout<<sizeof(object)<<endl;  // 8 byte
 
     return 0;
 }
