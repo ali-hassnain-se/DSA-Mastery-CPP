@@ -80,9 +80,14 @@ class a {
     char c;
 
     /*
-    now if we print the size of object o it wil print 8 bytes rather 
+    now if we print the size of object it wil print 8 bytes rather 
     than [ int (4 bytes) + char (1 byte) = 5 bytes], here the concept 
-    is used called "Padding"
+    is used called "Padding".
+
+    "Padding means extra unused bytes added by the compiler so that
+    data members are properly aligned in memory"
+    that's why char (1 byte) + padding 3 bytes = 4 + int (4 bytes)
+    = 8 bytes
     */
 
 };
