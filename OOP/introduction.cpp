@@ -11,7 +11,13 @@ Object: It is an entity that has a state and behaviour, anything that
 exist in physical world is called Object.
 */
 
+// Static memory class
 class Student {
+    /*
+    Static memory is the memory that is allocated at compile time
+    and remains allocated for the entire lifetime of the program
+    */
+
     private:
     string name;
     int age, roll_num;
@@ -92,10 +98,26 @@ class a {
 
 };
 
+// Dynamic memory class
+class University {
+    public:
+    string name;
+    string grade;
+    int age;
+    int roll_num;
+
+    /*
+    Dynamic memory is the memory that is allocated at runtime 
+    according to the programs need and can be released when it is
+    no longer needed
+    */
+};
+
 int main()
 {
     Student s1;
 
+    // Static Memory
     // objects
     s1.setname("Rohit");
     s1.setage(18);
@@ -115,6 +137,25 @@ int main()
     a object;
 
     cout<<sizeof(object)<<endl;  // 8 byte
+
+    // Dynamic Memory
+    // no we see how we can use dynamic memory by using University class
+    University *u=new University;
+
+    // we can use it like this:-
+    (*u).name="Rohit";
+    (*u).grade="A+";
+    (*u).age=18;
+    (*u).roll_num=26;
+    // now we can print it
+    cout<<u->name<<" ";
+    cout<<u->grade<<" ";
+    cout<<u->age<<" ";
+    cout<<u->roll_num<<" ";
+    // we can also fill values with this:-
+    // u->name="Rohit";
+    // u->grade="A+";
+
 
     return 0;
 }
